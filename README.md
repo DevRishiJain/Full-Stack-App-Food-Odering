@@ -1,4 +1,4 @@
-# restaurant-ordering-system
+# Full-Stack-App-Food-Ordering
 
 Watch Youtube video for set up, run, and demo
 
